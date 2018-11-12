@@ -6,6 +6,10 @@
  *
  * @copyright Copyright (c) 2018 Scott Wiederhold <s.e.wiederhold@gmail.com>
  *
+  * Adapted from Grbl
+ * @copyright Copyright (c) 2011-2016 Sungeun K. Jeon for Gnea Research LLC
+ * @copyright Copyright (c) 2009-2011 Simen Svale Skogsrud
+ *
  * SPDX-License-Identifier:    GPL-3.0-or-later
  *
  * @defgroup motion Motion Planning and Control
